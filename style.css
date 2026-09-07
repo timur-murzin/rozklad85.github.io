@@ -89,7 +89,7 @@
 
     .grid1{
         display: grid;
-        grid-template-columns: 54px 11px 78px 11px 62px 11px 118px 11px;
+        grid-template-columns: 54px 11px 78px 11px 62px 11px 108px 11px;
         grid-template-rows: 15%;
         grid-column-gap: 20px;
         margin-left: 5px;
